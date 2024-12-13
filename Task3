@@ -89,7 +89,7 @@ class ATM {
     }
 }
 
-public class ATM
+public class Task3
 {
     public static void main(String[] args) 
     {
